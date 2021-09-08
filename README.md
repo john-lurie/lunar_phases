@@ -5,7 +5,7 @@ A simple visualization of lunar phases
 
 ## About This Animation
 
-You can read about lunar phases and how this animation was made on my [website](https://john-lurie.github.io/).
+You can read about lunar phases and how this animation was made on my [website](https://john-lurie.github.io/animations/lunar_phases.html).
 
 ## Dependencies
 Python packages to plot the lunar phases:
